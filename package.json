@@ -1,0 +1,11 @@
+{
+  "name": "nestjs-hexagonal-architecture",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nattapong-c/nestjs-hexagonal-architecture.git",
+  "author": "Nattapong <nattapong@bizcuitsolution.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@nestjs/cli": "^10.2.1"
+  }
+}
